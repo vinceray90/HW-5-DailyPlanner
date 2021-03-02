@@ -64,9 +64,16 @@ body {
     background-color: #06AED5;
     color: white;
   }
+
+  i {
+    font-size: 30px;
+  }
   
   .saveBtn i:hover {
-    font-size: 20px;
+    font-size: 40px;
     transition: all .3s ease-in-out;
   }
   
+  button:hover {
+    background-color: #d3d3d3;
+  }
